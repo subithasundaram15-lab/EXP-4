@@ -56,10 +56,3 @@ RESULT:
 input and output of the waveforms of the half and full-briedge wave with/without filter are observerd plotted
 
 
-
-WAVEFORM:
-
-
-RESULT:
-
-Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
